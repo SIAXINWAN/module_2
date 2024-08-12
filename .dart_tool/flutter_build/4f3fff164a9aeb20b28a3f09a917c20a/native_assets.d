@@ -1,0 +1,1 @@
+ E:\\02_module\\mobile_wsmb2024_02_day2\\.dart_tool\\flutter_build\\4f3fff164a9aeb20b28a3f09a917c20a\\native_assets.yaml: 
